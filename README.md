@@ -96,8 +96,12 @@ Run scans from Parrot:
 
 - Attacker catches shell with Metasploit
 - Detection alerts created in Elastic for the entire attack chain
+<img width="1540" height="1232" alt="Screenshot 2025-07-02 234818" src="https://github.com/user-attachments/assets/1271965a-32a8-4575-b3ec-14b64b734feb" />
+
 
 ### Zeek detection:
+
+<img width="2024" height="723" alt="Screenshot 2025-07-02 235118" src="https://github.com/user-attachments/assets/698e69cc-fc88-4f3b-b5c4-668d3f14ae2d" />
 
 <img width="2018" height="1402" alt="image" src="https://github.com/user-attachments/assets/17780945-d00b-4f6d-923f-b46de4c2cbe3" />
 
